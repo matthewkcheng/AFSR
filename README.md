@@ -4,7 +4,7 @@ The purpose for our autonomous fire suppression robot is to aid homeowners in co
 
 [FULL REPORT](https://enigmatic-temple-07599.herokuapp.com/) 
 
-![AFSR Demo](./photos/AFSR-demo.gif)
+![AFSR Demo](./photos/AFSR-demo-2.gif)
 
 ## Design Solution
 
